@@ -18,6 +18,8 @@
     [super viewDidLoad];
     
     NSLog(@".jncvkjcv1");
+    
+    _myImage.alpha=1;
     // Do any additional setup after loading the view, typically from a nib.
 }
 
