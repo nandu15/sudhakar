@@ -20,6 +20,8 @@
     NSLog(@".jncvkjcv1");
     
     _myImage.alpha=1;
+    
+    NSLog(@"sudhakar");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
