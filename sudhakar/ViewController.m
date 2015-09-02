@@ -20,6 +20,7 @@
     NSLog(@".jncvkjcv1");
     
     _myImage.alpha=1;
+    NSLog(@"this is another branch");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
